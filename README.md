@@ -1,6 +1,6 @@
 # GMD_Exam
 
-Simple game made for the GMD exam.\n
+Simple game made for the GMD exam.<br/>
 At the via university college.
 
 Controls.
