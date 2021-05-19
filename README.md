@@ -1,5 +1,8 @@
 # GMD_Exam
 
+Github link: https://github.com/Notenboom/GMD_Exam <br/>
+Video link:  <br/>
+WebGL link: https://notenboom.github.io/WebGLBuild/ <br/>
 Simple game made for the GMD exam.<br/>
 At the via university college.
 
